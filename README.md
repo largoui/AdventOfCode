@@ -1,7 +1,5 @@
 # Advent of Code
 
-![Advent of Code Banner](https://raw.githubusercontent.com/largoui/advent-of-code/main/banner.png)
-
 This repository contains my solutions for the Advent of Code challenges of 2023. Advent of Code is an annual coding event with daily programming puzzles throughout the month of December.
 
 ## Table of Contents
