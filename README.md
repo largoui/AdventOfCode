@@ -20,15 +20,15 @@ Here you'll find my solutions to the Advent of Code puzzles. The solutions are o
 
 ## Directory Structure
 
-/advent-of-code
-├── day1
-│ ├── day1.txt
-│ ├── day1_test.txt
-│ ├── day1_1.py
-| ├── day1_2.py
-├── day2
-│ ├── day2.txt
-│ ├── day2_test.txt
-│ ├── day2_1.py
-| ├── day2_2.py
+/advent-of-code  
+├── day1  
+│ ├── day1.txt  
+│ ├── day1_test.txt  
+│ ├── day1_1.py  
+| ├── day1_2.py  
+├── day2  
+│ ├── day2.txt  
+│ ├── day2_test.txt  
+│ ├── day2_1.py  
+| ├── day2_2.py  
 └── ...
